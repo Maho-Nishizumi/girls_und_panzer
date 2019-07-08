@@ -1,3 +1,4 @@
+// 2019/07/08 16:06
 //list2_sub02.cpp
 
 #include "list2.h"

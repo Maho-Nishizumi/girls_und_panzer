@@ -1,3 +1,6 @@
+#list2.mak
+#2019/07/08 16:06
+
 list2: list2.o list2_sub01.o list2_sub02.o
 	g++ -o list2 list2.o list2_sub01.o list2_sub02.o
 
